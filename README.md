@@ -61,7 +61,7 @@ The model learns the relationship between house features and price, then predict
 ```text
 house-price-prediction-ml/
 │
-├── house_price_prediction.py
+├── house_price_prediction.ipynb
 ├── house_price_prediction_output.png
 ├── requirements.txt
 └── README.md
@@ -201,7 +201,7 @@ pip install pandas numpy matplotlib scikit-learn
 ### Step 2: Run Python File
 
 ```bash
-python house_price_prediction.py
+python house_price_prediction.ipynb
 ```
 
 ---
